@@ -25,23 +25,20 @@ Deskripsi produk: Couffe's Time adalah Aplikasi Hybrid yang berisi informasi tit
 
 # MapScreen
 
-![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/74c871c1-bf2a-41d7-ae2b-0dd2cf76cba9) ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/cc1ddef0-8147-4174-94ac-bc65c0caa132)
+![GitHub Logo](peta/MapScreen1.jpg) ![GitHub Logo](peta/MapScreen2.jpg)
 
 # ListDataScreen
 
-![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/e4e71073-7bfc-4b50-af42-37642e0c3f43) ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/72420886-19d1-4847-a87a-0216dfa243bd)
 
 
 
 # AddDatScreen
 
-![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/abaa5e16-0490-4c39-b14c-bd488a7be401) ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/b8916dd4-803e-4c2c-bcc7-414c63e2d556)
 
 
 # ProfilDataScreen
 
-![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/a421fa45-8380-4087-a9f2-da11eedefbcc) ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/fca03876-8ccb-4dd2-9563-1ca1b3993659)
-
+![GitHub Logo](peta/ProfilScreen1.jpg) ![GitHub Logo](peta/ProfilScreen2.jpg)
 
 
 
