@@ -1,0 +1,68 @@
+{
+  "mahasiswa": [
+    [
+      {
+        "nama": "Era",
+        "nim": "21/479132/SV/19443",
+        "kelas": "A",
+        "jeniskelamin": "Perempuan",
+        "color": "#2D4356",
+        "icon": "Home"
+      }
+    ],
+    {
+      "nama": "Zat Lentera Sunda",
+      "nim": "21/479132/SV/19443",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#2D4356",
+      "icon": "Home",
+      "id": 4
+    },
+    {
+      "nama": "Qiara Carozera",
+      "nim": "21/479132/SV/19443",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#2D4356",
+      "icon": "Home",
+      "id": 5
+    },
+    {
+      "nama": "Firda Irda Nisa",
+      "nim": "21/479132/SV/19443",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#2D4356",
+      "icon": "Home",
+      "id": 6
+    },
+    {
+      "nama": "Lina Nur Nisa",
+      "nim": "21/479132/SV/19443",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#2D4356",
+      "icon": "Home",
+      "id": 7
+    },
+    {
+      "nama": "Adzkia Rahmatillah",
+      "nim": "21/479147/SV/19445",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#E6E260",
+      "icon": "cloud-moon",
+      "id": 8
+    },
+    {
+      "nama": "Aisyah Nadiyah",
+      "nim": "21/473011/SV/18795",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#C70039",
+      "icon": "pastafarianism",
+      "id": 10
+    }
+  ]
+}
