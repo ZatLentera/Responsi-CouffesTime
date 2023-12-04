@@ -17,7 +17,11 @@ Deskripsi produk: Couffe's Time adalah Aplikasi Hybrid yang berisi informasi tit
 # Sumber data
 1. Google Maps
 2. Pengalaman Pribadi
-   
+
+# SplashScreen
+
+![GitHub Logo](peta/SplashScreen.jpg)
+
 # HomeScreen
    
    ![GitHub Logo](peta/HomeScreen1.jpg) ![GitHub Logo](peta/HomeScreen2.jpg)
