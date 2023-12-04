@@ -20,7 +20,8 @@ Deskripsi produk: Couffe's Time adalah Aplikasi Hybrid yang berisi informasi tit
    
 # HomeScreen
    
-   ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/7a720971-668d-4374-a14d-9df22fa165a1) ![image](https://github.com/ZatLentera/PGPBL-CouffesTime/assets/88302872/29fc30cc-1fdd-45e0-9738-f5c71841a111)
+   ![GitHub Logo](peta/HomeScreen1.jpg) ![GitHub Logo](peta/HomeScreen2.jpg)
+
 
 # MapScreen
 
